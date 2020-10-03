@@ -1,0 +1,28 @@
+,,,,,
+Name,Scientific Name/Variety/Origin,MT Value or Range ng/g or pg/mL,No. of Samples,Quantified by,Reference
+Nuts,,,,,
+,Pistachio,,,,
+Pistachio,Pistacia vera L. cv. Ahmad Aghaei,"233,000 ng/g DW",N/A,GC/MS,[28]
+Pistachio,"Pistacia vera L. cv. Akbari, Kalle","226,900 ng/g DW",N/A,GC/MS,[28]
+Pistachio,Pistacia vera L. cv. Qouchi,"231,400 ng/g DW",N/A,GC/MS,[28]
+Pistachio,Pistacia vera L. cv. Fandoghi,"228,400 ng/g DW",N/A,GC/MS,[28]
+,Walnuts,,,,
+Walnuts,Juglans regia L. cv. Serr,1.02 ¡Ó 0.06 ng/g FW,4,HPLC¡VMS,[97]
+,L. cv. Hartley,1.77 ¡Ó 0.14 ng/g FW,4,HPLC¡VMS,[97]
+,L. cv. Chandler,1.37 ¡Ó 0.37 ng/g FW,4,HPLC¡VMS,[97]
+,L. cv. Howard,1.9 ¡Ó 0.4 ng/g FW,4,HPLC¡VMS,[97]
+Walnuts,Not specified,0.14 ¡Ó 0.03 ng/g DW,5,LC¡VMS/MS,[42]
+Walnuts,Juglans regia L.,3.5 ¡Ó 1.0 ng/g,5,HPLC-ECD,[78]
+Juices and beverages,,,,,
+Beer,Not specified,0.09 ¡Ó 0.01 ng/mL,5,LC-MS/MS,[42]
+Wine,,,,,
+Albana must,"Albana, Romagna",1.1 ng/mL,3,HPLC-FD,[43]
+Albana wine,"Albana, Romagna",0.6 ng/mL,3,HPLC-FD,[43]
+Albana grappa,"Albana, Romagna",0.3 ng/mL,3,HPLC-FD,[43]
+Red wine,Not specified,0.26 ¡Ó 0.18 ng/mL,3,UHPLCMS/MS,[59]
+Dessert ice wine,Not specified,0.17 ¡Ó 0.11 ng/mL,3,UHPLCMS/MS,[59]
+,L. cv. Groppello Gentile,5.2 ng/mL,3,UHPLCMS/MS,[59]
+Merlot wines,Merlot,8.1 ng/mL,3,UHPLCMS/MS,[59]
+Wine,Cabernet Sauvignon,14.2 ¡Ó 0.2 ng/mL,3,HPLC-MS/MS,[55]
+Wine,Cabernet Sauvignon,0.23 ¡Ó 0.01 ng/mL,3,ELISA,[55]
+Wine,Jaen Tinto,0.16 ¡Ó 0.01 ng/mL,3,ELISA,[55]
